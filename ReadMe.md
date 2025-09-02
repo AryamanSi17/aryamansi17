@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at National Institute of Technology ,Jalandhar . Creating MERN Projects, Building LMS Project<br>
+I will be always a student . Creating MERN Projects, Building Gen AI Apps<br>
 
 
 ## 🌐 Socials:
