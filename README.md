@@ -9,8 +9,8 @@
 
 <a href="https://github.com/AryamanSi17/claude-watermark-remover"><img src="./cards/repo-1.svg" width="49%" alt="claude-watermark-remover" /></a>
 <a href="https://github.com/AryamanSi17/tv-debloat"><img src="./cards/repo-2.svg" width="49%" alt="tv-debloat" /></a>
-<a href="https://github.com/AryamanSi17/prompts"><img src="./cards/repo-3.svg" width="49%" alt="prompts" /></a>
-<a href="https://github.com/AryamanSi17/content-desk"><img src="./cards/repo-4.svg" width="49%" alt="content-desk" /></a>
+<a href="https://github.com/AryamanSi17/synthetic-consumer-research"><img src="./cards/repo-3.svg" width="49%" alt="synthetic-consumer-research" /></a>
+<a href="https://github.com/AryamanSi17/prompts"><img src="./cards/repo-4.svg" width="49%" alt="prompts" /></a>
 
 ### Hi, I'm Aryaman Sinha
 
